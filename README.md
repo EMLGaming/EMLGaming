@@ -2,7 +2,7 @@
 
 # ABOUT.me 👋
 
-Welcome to my github page! My name is **Ezrah Ligthart Schenk**. Currently work as a **penetration tester / cyber security consultant for Wortell**, while studying **Computer Science and Engineering** at TU Delft.
+Welcome to my github page! My name is **Ezrah Ligthart Schenk**. Currently work as a **penetration tester / cyber security engineer for EightFence**, while studying **Computer Science and Engineering** at TU Delft.
 
 :shipit: If you are down to play some [Hack The Box](https://www.hackthebox.eu/home/users/profile/196917) shoot me a message!
 
